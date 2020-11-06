@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMSspoof</string>
+    <string name="phone">Phone</string>
+    <string name="content">Content</string>
+</resources>
